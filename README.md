@@ -2,6 +2,10 @@
 
 Enseigné à l'Ecole Centrale de Lyon (3A/M2, MOS 5.5)
 
-[Romain Vuillemot](http://www.ec-lyon.fr/contacts/romain-vuillemot), *LIRIS, École Centrale de Lyon/Département Math-Info*, [Website](http://romain.vuillemot.net/),  [Twitter](https://twitter.com/romsson).
+Par **Romain Vuillemot**, *LIRIS, École Centrale de Lyon/Département Math-Info*, [Website](http://romain.vuillemot.net/),  [Twitter](https://twitter.com/romsson).
 
-Contact or questions: romain.vuillemot@ec-lyon.fr
+Contact et questions: romain.vuillemot@ec-lyon.fr
+
+
+* [Cours (pdf)](viz.pdf)
+* [Jeux de données](/datasets/)
